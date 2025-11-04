@@ -1,0 +1,6 @@
+addappid(2522430)
+addappid(2522431,0,"ab926bec697a2920bfdf8acf4f347b40bd08f01583311ed8a418f9a8c7863c90")
+--[[
+This file belongs to Ahmeds Bot Discord Server
+-----> join discord Server : https://discord.gg/sv6EGxCRnC
+]]
